@@ -6,14 +6,20 @@
 //
 
 import UIKit
+import Firebase
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        // firebase
+        FirebaseApp.configure()
+        
+        // MARK: tagを作る。初回はmakeTagsでfirestoreにタグをつくる。2回目以降はfetchTagsでタグをロード
+        //ReviewManager.shared.makeTags()
+        ReviewManager.shared.fetchTags()
+        
         return true
     }
 

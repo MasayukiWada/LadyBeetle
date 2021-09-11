@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>169844731432-7ftqecq04g7c6a2pdpi0002epmdmbirs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.169844731432-7ftqecq04g7c6a2pdpi0002epmdmbirs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNMK-vAc7wr8S-j-UWKL0VerBTG4-rH78</string>
+	<key>GCM_SENDER_ID</key>
+	<string>169844731432</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mw.LadyBeetle</string>
+	<key>PROJECT_ID</key>
+	<string>ladybeetle-cfae1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ladybeetle-cfae1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:169844731432:ios:bf2b5a5794c1778f508f1d</string>
+</dict>
+</plist>
